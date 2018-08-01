@@ -14,7 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/pelevesque/insert-string.git"
   },
-  "keywords": [],
+  "keywords": [
+    "string",
+    "insert",
+    "substitute"
+  ],
   "author": "Pierre-Emmanuel Lévesque <pierre.e.levesque@gmail.com>",
   "license": "MIT",
   "bugs": {
