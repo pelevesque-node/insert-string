@@ -8,7 +8,7 @@ Inserts a string inside another string.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/insert-string](https://www.npmjs.com/package/@pelevesque/insert-string)
+https://www.npmjs.com/package/@pelevesque/insert-string
 
 ## Installation
 
