@@ -45,7 +45,8 @@ const result = insertString(str, insert, index)
 
 The fourth parameter `numCharsToRemove` defaults to `0` which permits inserts.
 
-To make a substitution, setting `numCharsToRemove` to `-1` will give it the same length as the string to insert.
+To make a substitution, setting `numCharsToRemove` to `-1` will give it the same
+length as the string to insert.
 
 ```js
 const str = 'A nice guy.'
@@ -58,7 +59,9 @@ const result = insertString(str, insert, index, numCharsToRemove)
 
 ### Irregular Substitution
 
-By explicitly setting `numCharsToRemove` to the number of characters to remove, it's possible to do substitutions where the string to insert does not have the same length as the string that it is replacing.
+By explicitly setting `numCharsToRemove` to the number of characters to
+remove, it's possible to do substitutions where the string to insert does not
+have the same length as the string that it is replacing.
 
 ```js
 const str = 'My name is Jack Black and I act.'
