@@ -1,6 +1,6 @@
 {
   "name": "@pelevesque/insert-string",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Inserts a string inside another string.",
   "main": "index.js",
   "engines": {
